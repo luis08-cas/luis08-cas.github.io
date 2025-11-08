@@ -109,3 +109,9 @@ print(f"Hola, {nombre} {apellidos}. Nacistes en el año {año - edad }") ``
 Con este trabajo aprendi cosas muy importantes, aprendi lo que es y sobre lo consiste un programa y sus codigos, y estoy aprendiendo para que sirven y como funcionana los distintos programas para crear codigos, ` python ` es uno de los principales programas para empezar y aprender a crear codigos simples.
 
 Ya como aprendizaje mas personal, creo que es muy importante adquirir estos conocimientos, porque es como nos damos cuenta de como funciona lo que es toda la tecnolgia.
+
+---
+## Refefencias IA
+- ChatGpt: Conversación y explicacion del implemento del codigo Markdown y explicación sobre el uso de la variables en Python:
+  ( https://chatgpt.com/s/t_690fa536d0088191a8c3de152ac731b6 )
+ ( https://chatgpt.com/s/t_690fa592a1d481918fd5623254371214 )
