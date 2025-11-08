@@ -87,7 +87,7 @@ En resumidas palabras, las variables son la base de todos los programas, porque 
 Como dato adicional tambien se puede usar Google Colab para escribir y ensayar codigos en la nube sin necesidad de intalar los programas en el PC
 
 ## Ejemplo de código en Python
-``` python
+
 `` nombre = input("¿Cuales son tus nombres? ")
 apellidos = input ("¿Cuales son tus apellidos? ")
 año = int(input("¿Año actual? "))
@@ -96,6 +96,10 @@ altura = float(input("¿Cuál es tu altura en metros? "))
 ciudad = (input("¿De que ciudad eres? "))
 print(f"Hola, {nombre} {apellidos}. Nacistes en el año {año - edad }") ``
 
+---
+
 # Reflexión personal
 
-Con este trabajo aprendi cosas muy importantes, aprendi lo que es y sobre lo consiste un programa y sus codigos, y estoy aprendiendo para que sirven y como funcionana los distintos programas para crear codigos, ` python ` es uno de los principales programas para empezar y aprender a crear codigos simples, 
+Con este trabajo aprendi cosas muy importantes, aprendi lo que es y sobre lo consiste un programa y sus codigos, y estoy aprendiendo para que sirven y como funcionana los distintos programas para crear codigos, ` python ` es uno de los principales programas para empezar y aprender a crear codigos simples.
+
+Ya como aprendizaje mas personal, creo que es muy importante adquirir estos conocimientos, porque es como nos damos cuenta de como funciona lo que es toda la tecnolgia.
