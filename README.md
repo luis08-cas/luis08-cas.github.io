@@ -21,6 +21,8 @@ El hardware es toda la parte física de un computador, es decir todo lo que se p
     - Monitor
     - Impresora
     - Altavoces
+
+      ---
     
 ## Software
 
@@ -42,10 +44,12 @@ El hardware es toda la parte física de un computador, es decir todo lo que se p
     
     - ***Software de programación:***  Herramientas que los desarrolladores utilizan para crear otro software, como editores de código y compiladores. 
 
+---
 # Programa
 
  Un programa es un conjunto de instrucciones diseñadas para que un dispositivo realice una tarea específica. Estos se escriben en lenguajes de programación y son la base de todo el software que utilizamos, desde sistemas operativos hasta aplicaciones móviles. 
 
+---
 # Los Lenguajes de Programación
 
  Hoy en día, los modelos de lenguaje LLM en los que se basan los sistemas de inteligencia artificial más populares están haciendo posible que creemos instrucciones para los computadores en lenguaje natural. Pero esto no significa que aprender a hablar en Python y similares no sea importante.
@@ -67,6 +71,7 @@ El hardware es toda la parte física de un computador, es decir todo lo que se p
 
  podemos describir la programación como el proceso de descomponer una tarea grande y compleja en subtareas cada vez más pequeñas hasta que las subtareas sean lo suficientemente simples como para ser realizadas con secuencias de estas instrucciones básicas. 
 
+---
 # Variables
 
  Una variable es un nombre que usamos para hacer referencia a un valor que guardamos en la memoria del computador, existen varios tipos de variables, tales como:
@@ -86,7 +91,8 @@ En resumidas palabras, las variables son la base de todos los programas, porque 
 
 Como dato adicional tambien se puede usar Google Colab para escribir y ensayar codigos en la nube sin necesidad de intalar los programas en el PC
 
-## Ejemplo de código en Python
+---
+## Código en Python
 
 `` nombre = input("¿Cuales son tus nombres? ")
 apellidos = input ("¿Cuales son tus apellidos? ")
