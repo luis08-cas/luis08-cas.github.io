@@ -7,7 +7,7 @@ El hardware es toda la parte física de un computador, es decir todo lo que se p
 
 - **Internos**
     - Unidad Central de Procesamiento (CPU)
-    - Memoria RAM
+    - Memoria RAM 
     - Disco duro o unidad de estado sólido (SSD)
     - Placa base (placa de circuito impreso)
     - Tarjeta grafica 
