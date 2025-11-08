@@ -1,5 +1,3 @@
-# luis08-cas.github.io
-
 # Temas vistos en clases
 
 ## Hardware
