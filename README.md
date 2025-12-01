@@ -9,7 +9,7 @@
 
 ### Ultima entrada
 
-* [Los Pasos de una tortuga] (./phyton/tareas.md)
+* [Los Pasos de una tortuga] (./phyton/tareas.md) phyton/Tareas.md
 
 
  
