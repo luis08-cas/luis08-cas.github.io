@@ -9,7 +9,7 @@
 
 ### Ultima entrada
 
-[Ver Tareas](phyton/Tareas.md)
+[Simulando los pasos de una tortuga](phyton/Tareas.md)
 
 
 
