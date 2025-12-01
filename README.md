@@ -4,8 +4,12 @@
 
 - 24 Años
 - Cisneros Antioquia
+  
 ---
-* [Los Pasos de una tortuga] (./python/tareas.md)
+
+### Ultima entrada
+
+* [Los Pasos de una tortuga] (./phyton/tareas.md)
 
 
  
