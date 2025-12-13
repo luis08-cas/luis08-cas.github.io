@@ -4,3 +4,4 @@ En esta entrada de blog veremos la encapsulacion de la tortuga hecha en la tarea
 
 - [Encapsulamiento funcional]()
 - [Encapsulacion mediante programacion orientada a objetos]() 
+ 
