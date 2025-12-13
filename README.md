@@ -10,7 +10,7 @@
 ### Ultima entrada
 
 - [Simulando los pasos de una tortuga](phyton/Tareas.md)
-- [Encapsulando libreria turtle]()
+- [Encapsulando la libreria turtle]()
 
 
  
